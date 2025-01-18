@@ -1,0 +1,10 @@
+id, timestamp, calzado_id, pantalon_id, top_id, accesorio_id
+comb_1736825067,2025-01-13 21:24:27,calzado_negro_normal_19,pantalon_azul marino_37,top_camisa_gris_58,accesorio_chamarra_negro_85
+comb_1736825294,2025-01-13 21:28:14,calzado_café_normal_5,pantalon_negro_30,top_suéter_blanco_75,accesorio_chamarra_gris_93
+comb_1736825316,2025-01-13 21:28:36,calzado_azul marino_impermeable_14,pantalon_gris_44,top_suéter_negro_61,accesorio_chamarra_azul marino_83
+comb_1736825342,2025-01-14 03:29:02,calzado_blanco_impermeable_6,pantalon_gris_26,top_camisa_azul marino_72,accesorio_chamarra_negro_91
+comb_1736825355,2025-01-14 03:29:15,calzado_camello_impermeable_22,pantalon_azul marino_28,top_suéter_negro_61,accesorio_chamarra_azul marino_83
+comb_1736889337,2025-01-14 21:15:37,calzado_café_normal_5,pantalon_gris_41,top_suéter_blanco_75,accesorio_chamarra_azul marino_83
+comb_1736951085,2025-01-15 14:24:45,calzado_gris_normal_3,pantalon_azul marino_43,top_camisa_gris_68,accesorio_chamarra_azul marino_83
+comb_1737050438,2025-01-16 18:00:38,calzado_negro_normal_1,pantalon_negro_27,top_suéter_negro_71,accesorio_chamarra_gris_99
+comb_1737166673,2025-01-18 02:17:53,calzado_azul marino_impermeable_14,pantalon_gris_44,top_camisa_camello_54,accesorio_chamarra_gris_99

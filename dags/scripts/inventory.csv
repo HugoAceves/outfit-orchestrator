@@ -1,0 +1,101 @@
+id,nivel,color,tipo,impermeable
+calzado_negro_normal_1,Calzado,Negro,-,No
+calzado_azul marino_impermeable_2,Calzado,Azul marino,-,Sí
+calzado_gris_normal_3,Calzado,Gris,-,No
+calzado_camello_impermeable_4,Calzado,Camello,-,Sí
+calzado_café_normal_5,Calzado,Café,-,No
+calzado_blanco_impermeable_6,Calzado,Blanco,-,Sí
+calzado_negro_normal_7,Calzado,Negro,-,No
+calzado_azul marino_impermeable_8,Calzado,Azul marino,-,Sí
+calzado_gris_normal_9,Calzado,Gris,-,No
+calzado_camello_impermeable_10,Calzado,Camello,-,Sí
+calzado_café_normal_11,Calzado,Café,-,No
+calzado_blanco_impermeable_12,Calzado,Blanco,-,Sí
+calzado_negro_normal_13,Calzado,Negro,-,No
+calzado_azul marino_impermeable_14,Calzado,Azul marino,-,Sí
+calzado_gris_normal_15,Calzado,Gris,-,No
+calzado_camello_impermeable_16,Calzado,Camello,-,Sí
+calzado_café_normal_17,Calzado,Café,-,No
+calzado_blanco_impermeable_18,Calzado,Blanco,-,Sí
+calzado_negro_normal_19,Calzado,Negro,-,No
+calzado_azul marino_impermeable_20,Calzado,Azul marino,-,Sí
+calzado_gris_normal_21,Calzado,Gris,-,No
+calzado_camello_impermeable_22,Calzado,Camello,-,Sí
+calzado_café_normal_23,Calzado,Café,-,No
+calzado_blanco_impermeable_24,Calzado,Blanco,-,Sí
+calzado_negro_normal_25,Calzado,Negro,-,No
+pantalon_gris_26,Pantalón,Gris,-,-
+pantalon_negro_27,Pantalón,Negro,-,-
+pantalon_azul marino_28,Pantalón,Azul marino,-,-
+pantalon_gris_29,Pantalón,Gris,-,-
+pantalon_negro_30,Pantalón,Negro,-,-
+pantalon_azul marino_31,Pantalón,Azul marino,-,-
+pantalon_gris_32,Pantalón,Gris,-,-
+pantalon_negro_33,Pantalón,Negro,-,-
+pantalon_azul marino_34,Pantalón,Azul marino,-,-
+pantalon_gris_35,Pantalón,Gris,-,-
+pantalon_negro_36,Pantalón,Negro,-,-
+pantalon_azul marino_37,Pantalón,Azul marino,-,-
+pantalon_gris_38,Pantalón,Gris,-,-
+pantalon_negro_39,Pantalón,Negro,-,-
+pantalon_azul marino_40,Pantalón,Azul marino,-,-
+pantalon_gris_41,Pantalón,Gris,-,-
+pantalon_negro_42,Pantalón,Negro,-,-
+pantalon_azul marino_43,Pantalón,Azul marino,-,-
+pantalon_gris_44,Pantalón,Gris,-,-
+pantalon_negro_45,Pantalón,Negro,-,-
+pantalon_azul marino_46,Pantalón,Azul marino,-,-
+pantalon_gris_47,Pantalón,Gris,-,-
+pantalon_negro_48,Pantalón,Negro,-,-
+pantalon_azul marino_49,Pantalón,Azul marino,-,-
+pantalon_gris_50,Pantalón,Gris,-,-
+top_suéter_negro_51,Top,Negro,Suéter,-
+top_camisa_azul marino_52,Top,Azul marino,Camisa,-
+top_suéter_gris_53,Top,Gris,Suéter,-
+top_camisa_camello_54,Top,Camello,Camisa,-
+top_suéter_blanco_55,Top,Blanco,Suéter,-
+top_camisa_negro_56,Top,Negro,Camisa,-
+top_suéter_azul marino_57,Top,Azul marino,Suéter,-
+top_camisa_gris_58,Top,Gris,Camisa,-
+top_suéter_camello_59,Top,Camello,Suéter,-
+top_camisa_blanco_60,Top,Blanco,Camisa,-
+top_suéter_negro_61,Top,Negro,Suéter,-
+top_camisa_azul marino_62,Top,Azul marino,Camisa,-
+top_suéter_gris_63,Top,Gris,Suéter,-
+top_camisa_camello_64,Top,Camello,Camisa,-
+top_suéter_blanco_65,Top,Blanco,Suéter,-
+top_camisa_negro_66,Top,Negro,Camisa,-
+top_suéter_azul marino_67,Top,Azul marino,Suéter,-
+top_camisa_gris_68,Top,Gris,Camisa,-
+top_suéter_camello_69,Top,Camello,Suéter,-
+top_camisa_blanco_70,Top,Blanco,Camisa,-
+top_suéter_negro_71,Top,Negro,Suéter,-
+top_camisa_azul marino_72,Top,Azul marino,Camisa,-
+top_suéter_gris_73,Top,Gris,Suéter,-
+top_camisa_camello_74,Top,Camello,Camisa,-
+top_suéter_blanco_75,Top,Blanco,Suéter,-
+accesorio_paraguas_paraguas_76,Accesorio,-,Paraguas,-
+accesorio_chamarra_azul marino_77,Accesorio,Azul marino,Chamarra,-
+accesorio_paraguas_paraguas_78,Accesorio,-,Paraguas,-
+accesorio_chamarra_negro_79,Accesorio,Negro,Chamarra,-
+accesorio_paraguas_paraguas_80,Accesorio,-,Paraguas,-
+accesorio_chamarra_gris_81,Accesorio,Gris,Chamarra,-
+accesorio_paraguas_paraguas_82,Accesorio,-,Paraguas,-
+accesorio_chamarra_azul marino_83,Accesorio,Azul marino,Chamarra,-
+accesorio_paraguas_paraguas_84,Accesorio,-,Paraguas,-
+accesorio_chamarra_negro_85,Accesorio,Negro,Chamarra,-
+accesorio_paraguas_paraguas_86,Accesorio,-,Paraguas,-
+accesorio_chamarra_gris_87,Accesorio,Gris,Chamarra,-
+accesorio_paraguas_paraguas_88,Accesorio,-,Paraguas,-
+accesorio_chamarra_azul marino_89,Accesorio,Azul marino,Chamarra,-
+accesorio_paraguas_paraguas_90,Accesorio,-,Paraguas,-
+accesorio_chamarra_negro_91,Accesorio,Negro,Chamarra,-
+accesorio_paraguas_paraguas_92,Accesorio,-,Paraguas,-
+accesorio_chamarra_gris_93,Accesorio,Gris,Chamarra,-
+accesorio_paraguas_paraguas_94,Accesorio,-,Paraguas,-
+accesorio_chamarra_azul marino_95,Accesorio,Azul marino,Chamarra,-
+accesorio_paraguas_paraguas_96,Accesorio,-,Paraguas,-
+accesorio_chamarra_negro_97,Accesorio,Negro,Chamarra,-
+accesorio_paraguas_paraguas_98,Accesorio,-,Paraguas,-
+accesorio_chamarra_gris_99,Accesorio,Gris,Chamarra,-
+accesorio_paraguas_paraguas_100,Accesorio,-,Paraguas,-

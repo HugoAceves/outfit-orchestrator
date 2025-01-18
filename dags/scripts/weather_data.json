@@ -1,0 +1,27 @@
+[
+    {
+        "time": "2024-12-10 09:00:00",
+        "feels_like": 15.67,
+        "rain_chance": 0
+    },
+    {
+        "time": "2024-12-10 12:00:00",
+        "feels_like": 15.29,
+        "rain_chance": 0
+    },
+    {
+        "time": "2024-12-10 15:00:00",
+        "feels_like": 14.27,
+        "rain_chance": 0
+    },
+    {
+        "time": "2024-12-10 18:00:00",
+        "feels_like": 12.37,
+        "rain_chance": 0
+    },
+    {
+        "time": "2024-12-10 21:00:00",
+        "feels_like": 17.58,
+        "rain_chance": 0
+    }
+]

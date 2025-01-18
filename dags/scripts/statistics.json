@@ -1,0 +1,18 @@
+{
+    "calzado_mas_usado": {
+        "item": "calzado_café_normal_5",
+        "usos": 2
+    },
+    "pantalon_mas_usado": {
+        "item": "pantalon_gris_44",
+        "usos": 2
+    },
+    "top_mas_usado": {
+        "item": "top_suéter_blanco_75",
+        "usos": 2
+    },
+    "accesorio_mas_usado": {
+        "item": "accesorio_chamarra_azul marino_83",
+        "usos": 4
+    }
+}
